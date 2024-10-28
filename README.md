@@ -7,4 +7,11 @@ Chicago public schools
 
 Chicago crime data
 
-Based on the information available in the different tables, you have to run specific queries using Advanced SQL techniques that generate the required result sets.
+Based on the information available in the different tables, you have to run specific queries using Advanced SQL techniques that generate the required result sets: 
+    - Use joins to query data from multiple tables
+    
+    - Create and query views
+    
+    - Write and run stored procedures
+    
+    - Use transactions
